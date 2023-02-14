@@ -1,5 +1,5 @@
 # Audio-transcription-app
-Audio transcription is an app for converting speech to text on an online meeting.
+Audio transcription is an app for recording an online meeting in audio and sending directly to slack after meeting has ended.
 
 # Design pattern: MVVM
 # Language: Kotlin
